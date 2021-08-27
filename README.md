@@ -1,7 +1,9 @@
 # dex5
 Decentralized Exchange built on Ethereum. Includes Front end and back end. Allows trading of ERC tokens.
 
-Can handle Limit & Market orders
+Can handle Limit & Market orders.
+
+Historic of trades is displayed as a graph.
 
 UI for BAT token:
 ![alt text](https://github.com/Medicyp/dex5/blob/master/Demo/UI%201.PNG)
