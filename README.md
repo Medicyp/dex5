@@ -5,6 +5,8 @@ Can handle Limit & Market orders.
 
 Historic of trades is displayed as a graph.
 
+Demo: https://youtu.be/riNioUmybx4
+
 UI for BAT token:
 ![alt text](https://github.com/Medicyp/dex5/blob/master/Demo/UI%201.PNG)
 
