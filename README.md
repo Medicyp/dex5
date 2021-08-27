@@ -1,5 +1,5 @@
 # dex5
-Decentralized Exchange built on Ethereum. Includes Front end and back end. Allow trading of ERC tokens.
+Decentralized Exchange built on Ethereum. Includes Front end and back end. Allows trading of ERC tokens.
 
 Can handle Limit & Market orders
 
