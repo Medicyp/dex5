@@ -15,3 +15,15 @@ UI for ZRX token:
 
 UI for REP token:
 ![alt text](https://github.com/Medicyp/dex5/blob/master/Demo/UI%203.PNG)
+
+
+TO LAUNCH:
+Run "npm install" in "dex5-master" folder
+
+Run "npm install" in "client" folder
+
+Run "truffle develop" in "dex5-master" folder
+
+Run "migrate --reset" in the truffle develop CLI
+
+Run "npm run start" from the "client" folder
